@@ -6,7 +6,7 @@
 Official repository of WanderWise that all resource related to WanderWise development are documented.
 ## Resource
 - [Android Repository](https://github.com/wanderwise-id/wanderwise-android)
-- [WanderWise REST API](https://github.com/wanderwise-id/wanderwise-cc-rest-api)
+- [WanderWise REST API](https://github.com/wanderwise-id/wander-wise-rest-api-cc-2)
 - [WanderWise detik.com Scraper](https://github.com/wanderwise-id/wanderwise-detik-news-scraper)
 - [WanderWise antaranews.com Scraper](https://github.com/wanderwise-id/wanderwise-antara-news-scraper)
 - [WanderWise News Auto Labeling](https://github.com/wanderwise-id/wanderwise-news-autolable)
